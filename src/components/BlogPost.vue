@@ -6,7 +6,7 @@
 </script>
 
 <template>
-<h1>Esto solo una prueba de modificacion para github</h1>
+<h1>Prueba de modificacion para github</h1>
     <div class="card">
         <div class="card-body">
             <h5  class="card-title" :class="`text-${colorText}`" >{{ id }} - {{ title }}</h5>
