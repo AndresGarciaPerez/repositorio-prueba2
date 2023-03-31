@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+#Este texto debe ser borrado solo lo estoy usando para probar el comando git pull
