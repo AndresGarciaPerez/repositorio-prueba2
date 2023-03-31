@@ -26,3 +26,11 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+#Archivos que quiero que ignore Git para que no le de seguimiento
+#Solo colocamos el nombre del archivo o de la carpeta
+ignorar.txt
+
+
+#Tambien podemos poder  .js  y entonces Git va ignorar todos los archivos .js
+
